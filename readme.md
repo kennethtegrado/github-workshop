@@ -253,7 +253,7 @@ git remote add <name_of_online_repo> <url>
 Ex:
 
 ```bash
-git remote add origin https://github.com/kennethtegrado/resumetor
+git remote add origin https://github.com/kennethtegrado/resumetor.git
 ```
 
 The `git remote add` establishes a connection between an online repository to a local repository.
